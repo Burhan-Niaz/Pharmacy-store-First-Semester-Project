@@ -1,2 +1,2 @@
-# Pharmacy-store-First-Semester-Project
-Pharmacy store First Semester Project
+#Online Pharmacy-store-
+First Semester Website Project

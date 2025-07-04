@@ -1,0 +1,76 @@
+.one{background-color: rgb(91, 207, 230);
+height: 20px;
+width: 100%;}
+
+.three{
+    height: 50px;
+    width:50px;
+    border: 0.5px solid black;
+    border-radius: 50%;
+    background-image: URL("burhan\ cv.jpg");
+    background-size: 50PX,50PX;
+   
+    
+    
+    object-fit: COVER;
+    overflow: hidden;
+ 
+
+
+}
+ .four{
+  font-size: xx-small;
+    color: black;
+    margin-left: 70px;
+ }
+ .SEVEN{margin-left: 100PX;}
+ .EIGHT{margin-left: 100PX;}
+ A{font-size: xx-small;}
+ .TWELVE{
+
+
+  
+  
+ }
+ .IFRAME{
+  text-decoration: rgb(163, 163, 224);
+  padding-top: 60PX;
+  width: 60PX;
+  height: 80PX;
+ }
+ .TWO{background-color: rgb(91, 207, 230);
+  height: 20px;
+  width: 100%;}
+  .AAA{
+    height: 17PX;
+    width:5PX;
+    border-bottom-left-radius: 40%;
+  display:inline;
+  justify-content: left;
+  align-content: left;
+    background-color: rgb(91, 207, 230);
+  }
+ .container{
+  display: grid;
+  
+  margin: 0%;
+  flex:content;
+  flex-direction: row;
+ }
+  .AAA{
+    height: 17PX;
+    width: 15PX;
+   display: flex-start;
+    border-bottom-left-radius: 40%;
+    background-color: rgb(91, 207, 230);
+    flex-direction: row;
+  }
+
+  .BBB{
+    height: 17PX;
+    width: 15PX;
+margin-left: 96.7%;
+    border-top-right-radius: 40%;
+    background-color: rgb(91, 207, 230);
+  }
+  .body{display: flex;}

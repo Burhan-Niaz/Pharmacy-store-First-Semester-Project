@@ -1,0 +1,396 @@
+/*.burhan{
+    background-color: rgb(193, 188, 188);
+}*/
+
+*{margin:0%;
+    font-family:Arial ;
+    border: border-box;
+    
+    }
+    
+    a{
+        color: inherit;
+
+    }
+    
+    .navbar{height: 60px;
+    background-color: #0f1111;
+   color: white; 
+   font-weight: bolder;
+      display:flex;
+    
+    align-items: center;
+    justify-content: space-evenly;
+    }
+    
+    .nav-logo{
+    height: 50px;
+    width: 100px;
+
+    }
+    .logo{
+    background-image: url("PHARMACY\ LOGO.jpg");
+    height: 50px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    object-fit: cover;
+    overflow: hidden;
+    background-size: 50PX,100PX;
+    background-repeat:no-repeat;;
+    }
+    .border{color: white;
+      border: 2px solid transparent; 
+       
+    }
+    .border:hover{
+        border: 5px solid white;
+        border-radius: 5px; 
+    } 
+    .header{padding-left: 9px;}
+    .home{font-size: large;
+        font-weight: bold;
+        color: white(255, 255, 255);
+        border: 2px solid transparent;  
+    }
+    .home:hover{
+        border: 5px solid white;
+    } 
+    .header{padding-left: 9px;}
+    .one{color: #cccccc;
+    font-size: 1rem;
+    margin-left: 10px;
+    }
+    .two{color:#ffffff;
+    font-size: 2rem;
+    }
+    .icon{
+        display: flex;
+    }
+     
+    .nav-search{
+        display: flex;
+        
+        height: 40px ; 
+    
+    }
+    
+    
+    .option{
+        border: 2px solid transparent;  
+    }
+    .option:hover{
+        border: 2px solid white;  
+    }
+    .search-icon{
+        border: 2px solid transparent;  
+    }
+    .search-icon:hover{ border: 2px solid white;  
+    }
+    .search-input{
+        width: 400px;
+    }
+    .three{
+      width:  500px;
+      border: 2px solid transparent;  
+    }
+    .three:hover{
+        border: 2px solid wheat;  
+    }
+            .search-icon{
+                width:40px;
+                height: 40px;
+               background-color: rgb(227, 149, 93);
+               justify-content: center;
+               align-items: center;
+               display: flex;
+               font-size: 1.2rem ;
+               border-top-right-radius: 4px;
+               border-bottom-right-radius: 4px;
+                
+            }
+            .span-in{
+                font-size: 0.8rem;
+                font-weight: 900;
+            }
+     
+              .four{
+                font-size: 1rem;
+                font-weight: bold
+              }
+              .nav-cart i {
+                font-size: 35px;
+                border-radius: 15px;
+              }
+             .pannel{
+              
+            height: 50px; 
+            background-color:rgb(36, 18, 18);
+            display: flex;
+         padding-left: 20px;
+          color: white;
+          margin-top: 10px;
+          
+          
+    
+          
+            }
+            .pannel-all{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding-left: 20px;
+               
+    
+    
+            }
+            .seven{
+                align-items: center;
+                display: flex;
+                justify-content: center;
+                padding-left: 20px;
+            }
+            .eight{
+    
+    
+    
+                align-items: center;
+                display: flex;
+                justify-content: center;
+                padding-left: 20px;
+            }
+            .nine{ align-items: center;
+                display: flex;
+                justify-content: center;
+                padding-left: 20px;
+            }
+              
+                 .ten{ align-items: center;
+                    display: flex;
+                    justify-content: center;
+                    padding-left: 20px;
+                 }
+                     
+                 .eleven{ align-items: center;
+                    display: flex;
+                    justify-content: center;
+                    padding-left: 20px;
+                 }
+                 
+                 .twleve{ align-items: center;
+                    display: flex;
+                    justify-content: center;
+                    padding-left: 460px;
+                    
+                 }
+ 
+                     .amazon-hero{
+                       
+    width: 100%;
+    height: 400px;
+    
+    background-size: cover; /* or 'contain' based on your preference */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+
+    display: flex; /* Grouping properties under .amazon-hero */
+    justify-content: center; 
+    align-items: flex-end; 
+    overflow: hidden; /* Hides overflow content */
+                     }
+                    
+                     .hero-section{align-items:center;
+                        display: flex;
+                        justify-content:center;
+                      font-size: 0.85rem;
+                        padding-left: 20px;
+                    background-color: white;
+                    height: 40px;
+                    width: 80%;
+                    align-content: center;
+                color: black;
+            margin-bottom: 10px;}
+                   
+                .hero-section a    
+                      {color:#007185;} 
+    
+    
+                      .box{height: 250px;
+                            background-size: cover;
+                            background-position: center;
+                            width: 250px;
+                            background-color: #e2e7e6;
+                            padding: 15px 0px 10px;
+                            margin-bottom: 15px;
+                              }
+                              .box:hover{
+                               background-color:  antiquewhite;
+                              }
+    
+                              .shop-section{
+                                display: flex;
+                                flex-wrap: wrap;
+                               justify-content: space-evenly;
+                               margin-top: 20px;
+                               
+                              }
+                              
+                        
+    
+                              .shop-section:hover{
+                                border-color: cadetblue;
+                              }
+                           
+                               
+                              .box-image{
+                                font-weight: 500;
+                                margin-left: 10px;
+                            width: 210px;
+                        height: 200px;
+                    justify-content: center;
+                    background-position: center;
+                    background-size: cover;
+                    background-position: contain;
+                object-fit: cover;
+            overflow: hidden;}
+                              .zero{
+                                margin-left: 10px;
+                              }
+                              .aaa{ font-weight: 100;
+                            font-size: large;
+                        margin-left: 10px;}
+                        .aaa{ color: #007185;;}
+                        .aaa:hover{ color: chocolate;}
+                        .hero-section a:hover{color: skyblue;
+                        }
+    
+                        .bbb{
+                            margin-top: 10px;
+                            display: flex;
+                             justify-content: space-evenly;
+                             border: 2px solid;
+                                                }
+                                                .foot-pannel:hover{
+                                                    color: rgb(203, 144, 71);
+                                                }
+                                  
+                                                .foot-pannel{background-color: #37475a;
+                                                    color: white;
+                                                    height: 50px;
+                                                    
+                                                   align-content: center;
+                                                    align-items: center;
+                                                    justify-content: center;
+                                                    display: flex;
+                                                    font-size: 0.85rem;
+                                                    margin-top: 10px;
+                                                    
+                                                    }
+                                                    /*.footer{
+                                                        margin-top: 10px;
+                                                    }*/
+                                                    
+                                                    ul a
+                                                    {display: block;
+                                                    color: #dddddd;
+                                                margin-top: 10px;}
+                                                
+    
+                                                    .foot-pannel2{
+                                                        background-color: #2c3d50;
+                                                        color: white;
+                                                        height: 300px;
+                                                        display: flex;
+                                                        justify-content: space-evenly;
+                                                        
+                                                    }
+                                                    .foot-pannel2 p{font-weight: bold;
+                                                    margin-top: 10px;}
+                                                       .foot-pannel2:hover{
+                                                        color: aquamarine;
+
+                                                       }
+                                                            .foot-pannel3{
+                                                                background-color: #3c5066;
+                                                                height: 100px;
+                                                                border: 0.5px solid white;
+                                                                display:flex;
+                                                                justify-content: center;
+                                                                align-items: center
+                                                                                                                            ;
+                                                            }
+                                                            .log{ 
+                                                            background-size: cover;
+                                                            object-fit: cover;
+                                                            justify-content: center;
+                                                            background-position: COVER;
+                                                            overflow: hidden;
+                                                            background-image: COVER;
+                                                        height: 50px;
+                                                    width: 100px;
+                                                padding-bottom: 30px;
+                                               }
+                                               .foot-pannel4{
+                                                background-color: rgb(11, 11, 39);
+                                                height:150px;
+                                                
+                                               
+                                                color: white;
+                                                justify-content: center;
+                                               
+                                                text-align: center;
+                                               
+                                               }
+                                               .pages{ font-size: large;
+                                            padding-top: 20px;}
+                                               .copy-right{
+                                                font-size: small;
+                                                text-align: center;
+                                                margin-top: 10px;
+                                               }
+                                               .login-container {
+                                                width: 300px;
+                                                margin: 50px auto;
+                                                padding: 20px;
+                                                border: 1px solid #ccc;
+                                                border-radius: 8px;
+                                                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+                                            }
+                                            
+                                            .login-container h2 {
+                                                text-align: center;
+                                                margin-bottom: 20px;
+                                            }
+                                            
+                                            .login-container label {
+                                                display: block;
+                                                margin-top: 10px;
+                                            }
+                                            
+                                            .login-container input {
+                                                width: 100%;
+                                                padding: 8px;
+                                                margin: 8px 0;
+                                                border: 1px solid #ccc;
+                                                border-radius: 4px;
+                                            }
+                                            
+                                            .login-container button {
+                                                width: 100%;
+                                                padding: 10px;
+                                                background-color: #28a745;
+                                                color: white;
+                                                border: none;
+                                                border-radius: 4px;
+                                                cursor: pointer;
+                                            }
+                                            
+                                            .login-container button:hover {
+                                                background-color: #218838;
+                                            }
+                                            
+    
+    
+                
+    
+               
